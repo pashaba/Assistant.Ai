@@ -1,7 +1,7 @@
 # 🤖 Assistant.AI - WhatsApp Multi-Tool Bot
 
-![GitHub repo size](https://img.shields.io/github/repo-size/yourusername/assistant-ai)
-![GitHub license](https://img.shields.io/github/license/yourusername/assistant-ai)
+![GitHub repo size](https://img.shields.io/github/repo-size/pashaba/assistant-ai)
+![GitHub license](https://img.shields.io/github/license/pashaba/assistant-ai)
 ![Maintenance](https://img.shields.io/badge/maintained-yes-brightgreen)
 
 > Bot WhatsApp powerful berbasis Baileys MD yang dilengkapi fitur AI, hiburan, alat media, tools admin, hingga fitur Islami.
